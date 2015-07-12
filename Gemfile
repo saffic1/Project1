@@ -20,8 +20,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'bootstrap-sass'
 
-gem 'devise'
-
+gem 'devise', '3.5.1'
 
 group :development, :test do
 	gem 'sqlite3'
